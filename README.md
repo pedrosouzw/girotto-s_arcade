@@ -21,7 +21,7 @@ Este sistema oferece três minijogos distintos acessíveis a partir de um menu p
 
 ```bash
 # Clone este repositório
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/pedrosouzw/girotto-s_arcade
 
 # Acesse o diretório do projeto
 cd repositorio
