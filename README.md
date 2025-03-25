@@ -29,8 +29,6 @@ cd repositorio
 # Compile o programa
 gcc main.c -o minijogos
 
-# Execute o programa
-./minijogos
 
 ```
 ## Como Jogar ##
