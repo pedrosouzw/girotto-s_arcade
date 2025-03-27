@@ -17,18 +17,11 @@ Este sistema oferece três minijogos distintos acessíveis a partir de um menu p
 - Biblioteca `string.h` (para manipulação de strings)
 - Biblioteca `locale.h` (para suporte a configurações regionais)
 
-## Como Instalar e Rodar
+## Como Instalar 
 
 ```bash
 # Clone este repositório
 git clone https://github.com/pedrosouzw/girotto-s_arcade
-
-# Acesse o diretório do projeto
-cd repositorio
-
-# Compile o programa
-gcc main.c -o minijogos
-
 
 ```
 ## Como Jogar ##
